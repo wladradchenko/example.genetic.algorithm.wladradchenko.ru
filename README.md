@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/wladradchenko/example.genetic.algorithm.wladradchenko.ru">
-    <img src="https://media.giphy.com/media/jZTfM2sOyVqu8D0DC9/giphy.gif" width="100px" height="100px">
+    <img src="https://media.giphy.com/media/1FSNBA1Ixv3kao6OLk/giphy.gif" width="200px" height="200px">
   </a>
 
   <h3 align="center">Evolving Simple Organisms using a Genetic Algorithm and Simple Neural Network</h3>
