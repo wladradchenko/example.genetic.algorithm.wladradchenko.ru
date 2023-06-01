@@ -8,7 +8,7 @@ class Food(object):
         self.respawn()
 
     def respawn(self):
-        self.color = 'green'
+        self.color = 'blue'
         self.x = uniform(settings['x_min'], settings['x_max'])
         self.y = uniform(settings['y_min'], settings['y_max'])
         self.z = uniform(settings['z_min'], settings['z_max'])
