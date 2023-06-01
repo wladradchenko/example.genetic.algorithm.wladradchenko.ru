@@ -20,7 +20,7 @@ def plot_frame(settings, organisms, foods, gen, t_step):
         if org.fitness <= 0:
             continue
 
-        ax.scatter(org.x, org.y, org.z, c='b', marker='o')
+        ax.scatter(org.x, org.y, org.z, c='g', marker='o')
         org_heading = org.r + 90
         org_radians = radians(org_heading)
         dx = cos(org_radians)
