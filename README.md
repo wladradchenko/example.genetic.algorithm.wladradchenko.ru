@@ -49,8 +49,8 @@ python 3d/run.py
     <th>Трехмерная симуляция</th>
   </tr>
   <tr align="center">
-    <td><img src="example/2d.gif" alt="original" width="600" height="338"></td>
-    <td><img src="example/3d.gif" alt="move_enhancer" width="600" height="450"></td>
+    <td><img src="example/2d.gif" alt="original" width="250" height="250"></td>
+    <td><img src="example/3d.gif" alt="move_enhancer" width="250" height="250"></td>
   </tr>
 </table>
 </div>
